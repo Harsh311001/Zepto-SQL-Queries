@@ -17,7 +17,7 @@ To use SQL for exploring, querying, and deriving insights from Zepto’s busines
 - Products with High MRP but Out of Stock
 - Estimated Revenue for each category
 - Products where MRP is greater than ₹500 and discount is less than 10%.
-- Orders by city/region and delivery zones
+- Top 5 categories offering the highest average discount percentage.
 - Cancellations and return rate analytics
 
 🚀 Author
