@@ -14,7 +14,7 @@ To use SQL for exploring, querying, and deriving insights from Zepto’s busines
 ## 📊 Key Analysis Performed
 
 - Top 10 best-value products based on the discount percentage.
-- Revenue trends and daily sales overview
+- Products with High MRP but Out of Stock
 - Customer order frequency and segmentation
 - Inventory and stock status tracking
 - Orders by city/region and delivery zones
