@@ -18,7 +18,7 @@ To use SQL for exploring, querying, and deriving insights from Zepto’s busines
 - Estimated Revenue for each category
 - Products where MRP is greater than ₹500 and discount is less than 10%.
 - Top 5 categories offering the highest average discount percentage.
-- Cancellations and return rate analytics
+- The price per gram for products above 100g and sort by best value.
 
 🚀 Author
 Harsh Bardhan Gupta
