@@ -15,7 +15,7 @@ To use SQL for exploring, querying, and deriving insights from Zepto’s busines
 
 - Top 10 best-value products based on the discount percentage.
 - Products with High MRP but Out of Stock
-- Customer order frequency and segmentation
+- Estimated Revenue for each category
 - Inventory and stock status tracking
 - Orders by city/region and delivery zones
 - Cancellations and return rate analytics
