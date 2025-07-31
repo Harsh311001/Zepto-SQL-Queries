@@ -13,7 +13,7 @@ To use SQL for exploring, querying, and deriving insights from Zepto’s busines
 
 ## 📊 Key Analysis Performed
 
-- Top-selling products by category
+- Top 10 best-value products based on the discount percentage.
 - Revenue trends and daily sales overview
 - Customer order frequency and segmentation
 - Inventory and stock status tracking
